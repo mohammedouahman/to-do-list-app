@@ -11,9 +11,6 @@ Users can add tasks, mark them as complete, and delete them. Ideal for learning 
 - Responsive and simple UI
 - LocalStorage support to save tasks (optional)
 
-## Demo
-
-![App Screenshot](screenshot.png) <!-- optional: add a screenshot of your app -->
 
 ## Installation
 
